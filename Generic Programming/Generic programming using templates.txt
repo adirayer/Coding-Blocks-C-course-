@@ -1,0 +1,31 @@
+Generic programming using templates
+ it can be done using two methods
+ 1. algorithm
+ 2. container(vector)
+
+
+Containers IN STL
+
+Sequence containers: implement data structures which can be accessed in a sequential manner
+	-vector
+	-list
+	-deque
+	-arrays
+	-forward_list
+
+Container Adaptors: Provides a different interface for sequential containers.
+	-queue
+	-priority queue
+	- stack
+
+Associative Containers: Implement srted data structures that can be quickly searched(o(log n) complexity)
+	-set
+	-multiset
+	-map
+	-multimap
+
+Unordered Associative Containers: Implement Unorderes data structures that can be  quickly searched
+	-unordered set
+	-unordered multiset
+	-unordered map
+	-unordered multimap
