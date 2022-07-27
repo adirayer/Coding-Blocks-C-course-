@@ -1,0 +1,31 @@
+Bit Manipulation Assignments
+https://medium.com/@codingfreak/bit-manipulation-interview-questions-and-practice-problems-27c0e71412e7 https://www.interviewbit.com/problems/min-xor-value/ https://www.interviewbit.com/problems/number-of-1-bits/ https://www.interviewbit.com/problems/reverse-bits/
+
+https://www.interviewbit.com/problems/divide-integers/ https://www.interviewbit.com/problems/different-bits-sum-pairwise/ https://www.interviewbit.com/problems/single-number/ https://www.interviewbit.com/problems/single-number-ii/
+
+https://leetcode.com/problems/subsets/ https://leetcode.com/problems/single-number-ii/ https://leetcode.com/problems/repeated-dna-sequences/ https://leetcode.com/problems/bitwise-and-of-numbers-range/ https://leetcode.com/problems/single-number-iii/ https://leetcode.com/problems/maximum-product-of-word-lengths/ https://leetcode.com/problems/generalized-abbreviation/ https://leetcode.com/problems/counting-bits/ https://leetcode.com/problems/integer-replacement/ https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/ https://leetcode.com/problems/number-complement/ https://leetcode.com/problems/total-hamming-distance/ https://leetcode.com/problems/pyramid-transition-matrix/ https://leetcode.com/problems/letter-case-permutation/ https://leetcode.com/problems/maximum-of-absolute-value-expression/ https://leetcode.com/problems/xor-queries-of-a-subarray/ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+
+
+Problem - 437B - Codeforces
+Problem - 244B - Codeforces
+Problem - 224B - Codeforces
+Problem - 114B - Codeforces
+Problem - 484A - Codeforces
+Problem - 550B - Codeforces
+Problem - 581D - Codeforces
+Problem - 677C - Codeforces
+Problem - 868C - Codeforces
+Problem - 878A - Codeforces
+Problem - 913C - Codeforces
+Problem - 916B - Codeforces
+Problem - 960C - Codeforces
+Problem - 1151B - Codeforces
+Problem - 1146C - Codeforces
+Problem - 1217C - Codeforces
+Problem - 1225C - Codeforces
+Problem - 1270C - Codeforces
+Problem - 1325D - Codeforces
+Problem - 1332D - Codeforces
+
+
+XOR https://codeforces.com/problemset/problem/1322/B https://codeforces.com/problemset/problem/1299/A https://codeforces.com/contest/1325/problem/D `
